@@ -113,6 +113,55 @@ body{
 	height: 900px;
 
 }
+
+
+
+div.leVS
+{
+	height: 300px;
+	width: 100%;
+	display: flex;
+	margin-top: -800px;
+}
+
+div.jouer
+{
+	flex: 1;
+	background: url(Zombie&player.png) center no-repeat ;
+
+}
+
+
+div.Vs
+{
+	flex: 1;
+	background: url(Zombie&player.PNG) center no-repeat ;
+}
+
+
+div.ennemis
+{
+	flex: 1;
+	background: url(Zombie&player.PNG) center no-repeat ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .part_one
 {
 	padding-top: 400px;
